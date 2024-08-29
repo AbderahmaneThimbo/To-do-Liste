@@ -19,15 +19,12 @@ Le projet a été forké sur le compte GitHub de [Harouna Traoré](https://githu
 
 ### 3. Travail sur des Branches
 Pour chaque issue, une branche dédiée a été créée :
-- `feature/nom-de-la-branche` pour l'issue #1
-- `fix/nom-de-la-branche` pour l'issue #2
-- ...
+- `redaction-readme` pour l'issue #1
+
 
 ### 4. Pull Requests
 Les modifications apportées sur les branches ont été proposées via des pull requests :
-- `PR #1: Description des modifications`
-- `PR #2: Description des modifications`
-- ...
+- `PR #1: Rédaction du fichier README`
 
 ### 5. Revue et Fusion
 Les pull requests ont été revues, approuvées et fusionnées dans la branche principale.
@@ -50,6 +47,6 @@ Auteur
 
 [Abderahmane Thimbo](https://github.com/AbderahmaneThimbo/)
 
-Contributeurs
+Contributeur
 
 [Harouna Traore](https://github.com/HarounaTraore/)
